@@ -1,0 +1,54 @@
+--help (after any command to know more about that command)
+clear --> to clear the screen
+ls --> shows ths list of dircectories and other stuff in a directory
+ls -R --> show list recursively (i.e folder inside folder)
+ls -a --> to show hidden directories  
+ls -l --> show the list with permision and info
+cd --> to change directory
+ifconfig --> shows the ip address and other relevent info 
+uname --> username 
+uname -r --> more info about username
+uname -a --> all details 
+history --> history of all commands typed 
+cd .. --> move one directory down/back
+cd / --> moves to root node
+cd ~ -->moves to user directory
+touch --> to make new blank file/files
+mv --> to mover things 
+cp --> to copy things 
+rm --> to remove 
+rmdir --> to remove
+echo or printf "text_to_print" --> to print text on the terminal screen
+chmod xxx [file] --> to change file permission
+chgrp xxx [file] --> to change group permission
+chown xxx [file]--> to change owner permission
+ps --> show all running processes
+ps -a --> show all running processes 
+ps aux --> show the running processes
+ps -ef --> show runinng process
+top --> show all top resourse consuming processes
+kill pid(process id) --> to stop or kill a process
+vim --> open vim text editor
+whoami --> which user are logged in as
+passwd --> to change root password
+passwd [username] --> to change password other than root
+id --> to show userid
+locate [filename] --> to search a file in computer
+mount cdrom --> to mount cd/dvd
+eject --> to eject cd/dvd
+gedit --> open  a text editor
+cat --> show the content of a file
+less -->> DONT KNOW 
+|(piping) -->> DONT KNOW
+(command) $PATH --> show the path of command or the program
+bg --> show the backgrond running process
+jobs --> what all process are running in the background 
+fg [job number] --> forground the background runnig processes
+ctrl+C --> to stop the process
+ctrl+Z --> to make the process run in the background 
+man <command> --> show the manual pages of the command
+ 
+
+ 
+
+

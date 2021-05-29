@@ -1,0 +1,23 @@
+enable monitor mode:
+airmon-ng start [card name]
+
+other commands:
+ifconfig wlan0 down 
+ifconifg wlan0 mode monitor 
+ifconfig wlan0 up
+
+access points list:
+airodump-ng wlan0
+
+airmon-ng check kill
+
+change mac 
+ifconfig wlan0 down 
+macchanger -r wlan0
+0r 
+macchnger -m xx:xx:xx:xx:xx:xx wlan0(your own mac)
+ifconfig wlan0 up
+ifconifig wlan0 down 
+macchanger -p wlan0
+ifconfig wlan0 up 
+

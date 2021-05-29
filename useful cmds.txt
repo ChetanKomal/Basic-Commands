@@ -1,0 +1,3 @@
+get-filehash -path "path to file" -Algorithm MD5 | format-list ----> view the hash of a file.
+ipconfig/displaydns -----> gives you the history even incognito mode
+ipconfig/flushdns   -----> flushes out the history.
