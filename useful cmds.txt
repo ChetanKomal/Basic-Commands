@@ -1,3 +1,5 @@
 get-filehash -path "path to file" -Algorithm MD5 | format-list ----> view the hash of a file.
 ipconfig/displaydns -----> gives you the history even incognito mode
 ipconfig/flushdns   -----> flushes out the history.
+wmic memphysical get maxcapacity, memorydevices ------> no. of ram slots avaliable in laptop and max. ram capacity that can be installed on laptop.
+powercfg /batteryreport -----> generates battery report and save to html file.
